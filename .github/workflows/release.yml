@@ -179,7 +179,6 @@ jobs:
             ./XrayR-${{ steps.get_filename.outputs.ASSET_NAME }}/*
       - name: Upload binaries to release
         uses: svenstaro/upload-release-action@v2
-        if: github.event_name == 'release'
         with:
           repo_token: ${{ secrets.GAYHUB_TOKEN }}
           file: ./XrayR-${{ steps.get_filename.outputs.ASSET_NAME }}/*
