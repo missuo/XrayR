@@ -1,10 +1,5 @@
 # XrayR
-
-A Xray backend framework that can easily support many panels.
-
-一个基于Xray的后端框架，支持V2ay,Trojan,Shadowsocks协议，极易扩展，支持多面板对接。
-
-如果您喜欢本项目，可以右上角点个star+watch，持续关注本项目的进展。
+XrayR Backup.
 
 ## 免责声明
 
@@ -50,10 +45,7 @@ A Xray backend framework that can easily support many panels.
 ## 软件安装
 
 ### 一键安装
-```
-bash <(curl -Ls https://raw.githubusercontents.com/missuo/XrayR-V2Board/master/install.sh)
-```
-
+[https://github.com/missuo/XrayR-V2Board](https://github.com/missuo/XrayR-V2Board)
 
 ## Thanks
 
@@ -65,9 +57,4 @@ bash <(curl -Ls https://raw.githubusercontents.com/missuo/XrayR-V2Board/master/i
 ## Licence
 
 [Mozilla Public License Version 2.0](https://github.com/XrayR-project/XrayR/blob/master/LICENSE)
-
-
-## Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/XrayR-project/XrayR.svg)](https://starchart.cc/XrayR-project/XrayR)
 
