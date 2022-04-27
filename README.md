@@ -1,6 +1,4 @@
 # XrayR
-[![](https://img.shields.io/badge/TgChat-@XrayR讨论-blue.svg)](https://t.me/XrayR_project)
-[![](https://img.shields.io/badge/Channel-@XrayR通知-blue.svg)](https://t.me/XrayR_channel)
 
 A Xray backend framework that can easily support many panels.
 
@@ -14,6 +12,7 @@ A Xray backend framework that can easily support many panels.
 本项目只是本人个人学习开发并维护，本人不保证任何可用性，也不对使用本软件造成的任何后果负责。
 
 ## 特点
+
 * 永久开源且免费。
 * 支持V2ray，Trojan， Shadowsocks多种协议。
 * 支持Vless和XTLS等新特性。
@@ -50,10 +49,12 @@ A Xray backend framework that can easily support many panels.
 | [ProxyPanel](https://github.com/ProxyPanel/ProxyPanel) | √     | √      | √                              |
 
 ## 软件安装
+
 ### 一键安装
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/XrayR-project/XrayR-release/master/install.sh)
 ```
+
 ### 使用Docker部署软件
 [Docker部署教程](https://crackair.gitbook.io/xrayr-project/xrayr-xia-zai-he-an-zhuang/install/docker)
 
@@ -80,6 +81,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/XrayR-project/XrayR-release/ma
 [XrayR后端讨论](https://t.me/XrayR_project)
 
 [XrayR通知](https://t.me/XrayR_channel)
+
 ## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/XrayR-project/XrayR.svg)](https://starchart.cc/XrayR-project/XrayR)
