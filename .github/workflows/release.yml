@@ -182,6 +182,6 @@ jobs:
         if: github.event_name == 'release'
         with:
           repo_token: ${{ secrets.GAYHUB_TOKEN }}
-          file: ./XrayR-${{ steps.get_filename.outputs.ASSET_NAME }}.zip*
+          file: ./XrayR-${{ steps.get_filename.outputs.ASSET_NAME }}/*
           tag: ${{ github.ref }}
           file_glob: true
